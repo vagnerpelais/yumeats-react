@@ -1,4 +1,5 @@
 import Feature from "./components/feature/Feature";
+import Meal from "./components/meal/Meal";
 import QuickDelivery from "./components/quickdelivery/QuickDelivery";
 import TopNav from "./components/topnav/TopNav";
 import TopPicks from "./components/toppicks/TopPicks";
@@ -10,6 +11,7 @@ function App() {
       <Feature />
       <QuickDelivery />
       <TopPicks />
+      <Meal />
     </div>
   );
 }
