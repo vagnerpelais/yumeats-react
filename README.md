@@ -35,6 +35,6 @@ npm start
 
 ## More info
 
-![Images](https://pasteboard.co/bxT5uB3skbNG.gif)
+[![Project video](https://ibb.co/cvJw71w)](https://youtu.be/3hCAftzTnrk)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
