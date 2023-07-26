@@ -20,12 +20,11 @@ const QuickDelivery = () => {
                 Limitless Convenience on-demand
             </h1>
             <p className="">
-                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',
-                making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text,
-                and a search for 'lorem ipsum' will uncover many web sites still in their infancy.
+                Quick Delivery App have all the convenience and ease-to-use features to provide you with the best experience.
+                What are you waiting? Download now!
+
             </p>
-            <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3">
+            <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-bold my-6 mx-auto md:mx-0 py-3">
                 Get Started
             </button>
         </div>

@@ -1,6 +1,7 @@
 import Feature from "./components/feature/Feature";
 import QuickDelivery from "./components/quickdelivery/QuickDelivery";
 import TopNav from "./components/topnav/TopNav";
+import TopPicks from "./components/toppicks/TopPicks";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <TopNav />
       <Feature />
       <QuickDelivery />
+      <TopPicks />
     </div>
   );
 }
