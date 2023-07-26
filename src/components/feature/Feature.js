@@ -50,8 +50,8 @@ const Feature = () => {
       <div className="flex top-4 justify-center py-2">
         {
           sliders.map((sliderItems, slideIndex) => (
-            <div 
-              key={slideIndex} 
+            <div
+              key={slideIndex}
               className="text-2xl cursor-pointer"
               onClick={() => moveToNextSlide(slideIndex)}
             >
