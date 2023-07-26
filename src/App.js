@@ -1,5 +1,6 @@
 import Categories from "./components/categories/Categories";
 import Feature from "./components/feature/Feature";
+import Footer from "./components/footer/Footer";
 import Meal from "./components/meal/Meal";
 import Newsletter from "./components/newsletter/Newsletter";
 import QuickDelivery from "./components/quickdelivery/QuickDelivery";
@@ -16,6 +17,7 @@ function App() {
       <Meal />
       <Categories />
       <Newsletter />
+      <Footer />
     </div>
   );
 }

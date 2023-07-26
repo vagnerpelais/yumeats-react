@@ -4,7 +4,7 @@ const Newsletter = () => {
   return (
     <div className="w-full m-auto text-white px-4 bg-[#24262b]">
       <div className="mx-auto grid lg:grid-cols-3">
-        <div className="lg:col-span-2 my-4">
+        <div className="lg:col-span-2 my-4 p-3">
             <h1>
                 Need advice on how to improve your flow?
             </h1>
@@ -21,7 +21,7 @@ const Newsletter = () => {
             </div>
             <p>
                 we are concerned about the security of your data, Read{" "}
-                <span className="text-[#00df9a]">
+                <span className="text-[#00df9a] cursor-pointer hover:text-[#c1ffeb]">
                     Privacy Policy
                 </span>
             </p>
