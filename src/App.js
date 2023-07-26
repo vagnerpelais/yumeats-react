@@ -1,3 +1,4 @@
+import Categories from "./components/categories/Categories";
 import Feature from "./components/feature/Feature";
 import Meal from "./components/meal/Meal";
 import QuickDelivery from "./components/quickdelivery/QuickDelivery";
@@ -12,6 +13,7 @@ function App() {
       <QuickDelivery />
       <TopPicks />
       <Meal />
+      <Categories />
     </div>
   );
 }
